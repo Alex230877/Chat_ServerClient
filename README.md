@@ -1,1 +1,3 @@
-# Chat_ServerClient
+Реализация простейшего консольного чата, реализованного в виде TCP-клиента и TCP-сервера.
+TCP-сервер на ubuntu-20.04.1-live-server
+TCP-клиент Visual Studio
